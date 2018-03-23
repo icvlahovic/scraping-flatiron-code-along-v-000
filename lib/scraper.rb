@@ -32,5 +32,3 @@ class Scraper
       puts "Description: #{course.description}"
     end
   end
-
-end
