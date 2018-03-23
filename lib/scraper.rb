@@ -26,7 +26,6 @@ class Scraper
     end
   end
 
-binding.pry
 end
 
 Scraper.new.get_page
