@@ -29,4 +29,5 @@ class Scraper
 end
 
 Scraper.new.get_page
+binding.pry
 end
